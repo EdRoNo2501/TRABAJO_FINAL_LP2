@@ -1,9 +1,9 @@
 # TRABAJO_FINAL_LP2
 
-## Integrantes:
+## Integrantes -Usuario :
 
 - Edgard Jesus Rojas Chavez -EdRoNo2501
 
 - Hamnah Elvira Miranda Atapoma - Hamnah123456
 
-- Lucero Manrique Santos - smlucky12, LULU
+- Lucero Manrique Santos - smlucky12
