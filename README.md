@@ -1,6 +1,6 @@
 # TRABAJO_FINAL_LP2
 
-## Integrantes -Usuario :
+## Integrantes :
 
 - Edgard Jesus Rojas Chavez -EdRoNo2501
 
